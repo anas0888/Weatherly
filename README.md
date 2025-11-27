@@ -14,7 +14,7 @@ Features
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/anas0888/weather-app.git
 ```
 
 2. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)

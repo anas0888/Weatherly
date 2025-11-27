@@ -35,7 +35,7 @@ const apikey = 'YOUR_API_KEY_HERE';
 
  Screenshots
 
-_Add your screenshots here_
+![image alt](https://github.com/anas0888/Weatherly/blob/e51036514b0b44b7603587c1ed7a526570e64814/screnenshot1.png)
 
  License
 

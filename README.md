@@ -37,6 +37,8 @@ const apikey = 'YOUR_API_KEY_HERE';
 
 ![image alt](https://github.com/anas0888/Weatherly/blob/e51036514b0b44b7603587c1ed7a526570e64814/screnenshot1.png)
 
+![image alt](https://github.com/anas0888/Weatherly/blob/cf90d0f8ebe7e34e67d0def214ad796a97088b86/screenshot2.png)
+
  License
 
 Free to use
